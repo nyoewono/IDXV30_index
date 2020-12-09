@@ -185,7 +185,10 @@ class IDXVAL30:
 path = 'index/idx80/0820-0121/idx80.csv'
 index = IDXVAL30(path)
 index_df = index.generate_index()
-
+#%%
+import os
+index_df.to_csv(os.getcwd()+'/idxv30.csv', index = False)
+#%%
 
 
         
