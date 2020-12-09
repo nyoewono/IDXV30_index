@@ -6,3 +6,6 @@ The index paper can be found in this link: https://www.idx.co.id/media/8851/pand
 The index was also compared to other famous IDX index, such as LQ45 and IDX30
 - Link: https://github.com/nyoewono/IDXV30_index/blob/main/comparison_analysis.ipynb
 
+Credits:
+- This project were built upon yfinance library: https://pypi.org/project/yfinance/
+  The library allows an extraction of both historical and fundamental values of stocks.
